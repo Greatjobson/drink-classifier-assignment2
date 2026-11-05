@@ -1,0 +1,4 @@
+model,accuracy,macro_f1,latency_ms,retrieval_P@5
+A1 baseline ResNet18,0.974,0.9718,49.7141,
+DINOv2 linear probe,0.9481,0.9437,111.023,0.9247
+DINOv2 + synthetic (unfiltered),0.9481,0.9437,,

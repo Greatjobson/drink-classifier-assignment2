@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+gradio
+scikit-learn
+joblib
+numpy
+pillow
+matplotlib
